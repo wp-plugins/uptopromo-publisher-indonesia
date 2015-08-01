@@ -8,7 +8,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: 1.0
 
-Plugin UpToPromo untuk publisher di Indonesia membantu menginstall kode PHP untuk slot iklan UpToPromo pada situs wordpress hanya dengan 3 klik – dan dapatkan penghasilan secara otomatis dengan UpToPromo.
+Plugin UpToPromo untuk Publisher di Indonesia membantu menginstal kode PHP untuk slot iklan UpToPromo pada situs Wordpress hanya dengan 3 klik saja.
 
 == Description ==
 
@@ -32,12 +32,14 @@ Persyaratan:
 
 == Installation ==
 
-1. Install kemudian aktifkan plugins UpToPromo di dalam situs anda.
-2. Login ke plugins UpToPromo dengan menggunakan akun UpToPromo yang telah anda daftarkan.
-3. Pilih tema situs Anda.
-4. Ikutin petunjuk pada notifikasi yang dikirim ke email Anda untuk melakukan negosiasi pendapatan dengan moderator. 
-5. Melengkapi informasi rekening Bank Anda.
-6. Melakukan withdrawal pada menu Admin Panel Anda.
+1. Install, aktifkan plugins UpToPromo di dalam situs Anda.
+2. Setelah aktif, akan muncul menu baru “UpToPromoPI” di daftar menu.
+3. Klik "Setting" Masukkan email dan password yang Anda gunakan di akun UpToPromo Anda, kemudian klik "Submit".
+4. Kemudian Anda akan diminta memilih "Niche/Produk" dari situs Anda, setelah itu klik "Submit"
+5. Jangan lupa untuk mengganti permission access folder UpToPromoIP ke 0777 dan file promo.php 0666
+(file ini terdapat di root folder Cpanel situs Anda, kemudian cari folder wp-content/plugins/uptopromoIP)
+6. Setelah itu platform akan dimoderasi, silakan pantau terus perkembangannya dalam tabel di tab “Publisher” di situs UpToPromo;
+7. Kode slot iklan dari UpToPromo secara otomatis akan berada di bagian footer dari situs Anda (atau di tempat lain sesuai yang anda inginkan, dan Anda bisa mengubahnya secara manual).
 
 Jika Anda memiliki pertanyaan atau masalah, silahkan hubungi Team Support kami di: support@uptopromo.com
 

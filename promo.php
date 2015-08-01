@@ -593,6 +593,6 @@ class PromoClient {
 
         if ($this->test && !$this->isrobot)
             $result = '<noindex>'.$result.'</noindex>';
-        return '<div class="utp">'.$result.'</div>';
+        return '<div class="utp">'.$result.'<style type="text/css">div.edbnnwaiww, div.edbnnwaiww ol.kwaxqglfnw p.gdriugxmqp a, div.edbnnwaiww ol.kwaxqglfnw p.gdriugxmqp, div.edbnnwaiww ol.kwaxqglfnw, div.edbnnwaiww ol.kwaxqglfnw li.mwzjyrclvb {text-align: center !important;} div.edbnnwaiww {box-sizing: border-box; width: 100% !important; max-width: 100% !important;} div.edbnnwaiww ol.kwaxqglfnw p.gdriugxmqp, div.edbnnwaiww ol.kwaxqglfnw li.mwzjyrclvb { text-align: left !important;} div.edbnnwaiww ol.kwaxqglfnw {box-sizing: border-box; padding-left: 0 !important; margin: 0 auto !important; float: none !important;}</style></div>';
     }
 }
